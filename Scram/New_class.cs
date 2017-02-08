@@ -8,5 +8,6 @@ namespace Scram
 {
     class New_class
     {
+        private int i;
     }
 }
