@@ -8,5 +8,7 @@ namespace Scram
 {
     class New_class
     {
+        public New_class() {
+        }
     }
 }
