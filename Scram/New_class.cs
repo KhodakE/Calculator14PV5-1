@@ -8,6 +8,7 @@ namespace Scram
 {
     class New_class
     {
+        private int i;
         public New_class() {
         }
     }
