@@ -7,5 +7,6 @@ namespace Scram
 {
     public class Tereshchenko
     {
+        int i;
     }
 }
