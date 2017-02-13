@@ -50,9 +50,7 @@
     <Compile Include="IOperationExeption.cs" />
     <Compile Include="Ioutput.cs" />
     <Compile Include="Multi.cs" />
-    <Compile Include="New_class.cs" />
     <Compile Include="Output.cs" />
-    <Compile Include="Percent.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
