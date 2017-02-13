@@ -7,5 +7,6 @@ namespace Scram
 {
     public class Test
     {
+        public int Num;
     }
 }
